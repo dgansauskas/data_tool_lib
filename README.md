@@ -1,1 +1,1 @@
-![example workflow](https://github.com/github/docs/actions/workflows/master.yml/badge.svg)
+![GitHub](https://img.shields.io/github/license/dgansauskas/data_tool_lib?label=license&logo=M%20I%20T&logoColor=green&style=flat-square)
