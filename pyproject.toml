@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "data-tool-lib"
+version = "0.1.0"
+description = ""
+authors = ["Danilo Gansauskas <danilo-gansauskas@ACT-8370>"]
+readme = "README.md"
+packages = [{include = "data_tool_lib"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
